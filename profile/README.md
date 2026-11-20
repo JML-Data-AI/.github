@@ -1,7 +1,5 @@
 ![JML Data & AI Banner](../jml-data-ai-banner.jpg)
 
-**Scalable Data Solutions, AI Architecture & Business Intelligence.**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-juan--manuel--landa.netlify.app-0A192F?style=flat-square&logo=netlify&logoColor=white)](https://juan-manuel-landa.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JML%20Data%20%26%20AI-0A66C2?style=flat-square)](https://www.linkedin.com/company/jml-data-ai/)
 [![Maintainer](https://img.shields.io/badge/Maintainer-@jlandaa-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jlandaa)
