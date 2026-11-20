@@ -1,4 +1,4 @@
-# JML Data & AI
+![JML Data & AI Banner](../jml-data-ai-banner.jpg)
 
 **Scalable Data Solutions, AI Architecture & Business Intelligence.**
 
